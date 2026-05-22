@@ -2,6 +2,7 @@
 Projeto com AWS: O Peso das Palavras
 
 
+
 Extensão: Análise Exploratória
 
 Arquitetura de Dados: Dicionário de Dados / DER / Apresentação
@@ -9,6 +10,8 @@ Arquitetura de Dados: Dicionário de Dados / DER / Apresentação
 Estrutura de Dados: Algoritmos de Ordenação
 
 Lógica de Programção: Python Sorting
+
+Metodologia: Kanban, Scrum
 
 
 
