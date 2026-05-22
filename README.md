@@ -6,6 +6,8 @@ Extensão: Análise Exploratória
 
 Arquitetura de Dados: Dicionário de Dados / DER / Apresentação
 
+Estrutura de Dados: Python / Métodos de Ordenação
+
 
 
 
